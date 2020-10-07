@@ -27,3 +27,6 @@ Em paralelo com a faculdade estou estudando desenvolvimento mobile com flutter, 
 
 ## ⚡ Descrição:
 * Digite seu peso e altura nos respectivos campos e clique em calcular.
+
+
+![ScreenApp](Screenshot_1.png)
