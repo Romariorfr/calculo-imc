@@ -1,16 +1,29 @@
-# calculadora_imc
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-calculadora de IMC 
+Eu sou Romário Ferreira 😃. Sou de Itaúna MG,estou cursando Faculdade de análise e desenvolvimento de Sistemas.Adoro aprender coisas novas.
+Em paralelo com a faculdade estou estudando desenvolvimento mobile com flutter, estou adorando flutter e dart.
 
-## Getting Started
+#Aplicativo criado em flutter atraves da IDE android Studeo 4.0.1, com o professor Daniel Ciolfi, no curso Udemy.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ⚡ Objetivo deste repositório:
+🎯 Criar uma calculadora de indice de massa corporal, 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚡ Widget aprendidos nesse projeto:
+- [x] TextFormField
+- [x] Scaffold
+- [x] AppBar
+- [x] IconButton
+- [x] Padding
+- [x] Column
+- [x] Text
+
+
+## ⚡ Principal conceito aprendido:
+- [x] Validação dos campos de textos dos TextFormField com o widget Form e GlobalKey,passando uma função anonima com a logica da validação.
+
+
+
+## ⚡ Descrição:
+* Digite seu peso e altura nos respectivos campos e clique em calcular.
